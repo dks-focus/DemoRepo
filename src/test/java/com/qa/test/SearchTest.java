@@ -4,5 +4,6 @@ public class SearchTest {
 
 	public void Search() {
 		System.out.println("This is search");
+		System.out.println("This is searchawd");
 	}
 }
