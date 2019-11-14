@@ -8,5 +8,6 @@ public class LoginTest {
 	@Test
 	public void loginTest() {
 		System.out.println("LoginTest");
+		System.out.println("LoginTest");
 	}
 }
